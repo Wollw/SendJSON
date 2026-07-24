@@ -1,0 +1,10 @@
+{
+  "Author": "Wollw",
+  "Name": "SendJSON",
+  "Punchline": "Sends JSON",
+  "Description": "Sends JSON",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "plugin"
+  ]
+}
